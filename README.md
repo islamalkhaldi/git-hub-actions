@@ -1,3 +1,4 @@
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/islamalkhaldi/git-hub-actions/ci.yml?label=Build)
 # CI/CD workshop using Github actions
 
 ## Workshop
