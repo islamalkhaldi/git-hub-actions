@@ -10,6 +10,7 @@ export const SetupCounter = () => {
     <div className='flex flex-col h-full'>
       <h1 className="text-3xl font-bold underline bg-red">
         This page was deployed using Github actions!🚀
+        Hello Bouvetere :) 
       </h1>
       <div className="flex flex-col justify-center items-center h-screen bg-gray-100">
         <div className="text-4xl">Counter: {count}</div>
